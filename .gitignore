@@ -11,6 +11,9 @@
 # production
 /build
 
+# test's screenshots
+/tests_screenshots
+
 # misc
 .DS_Store
 .env.local
